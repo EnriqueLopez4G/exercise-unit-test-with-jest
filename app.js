@@ -6,7 +6,6 @@ const fromEuroToDollar = function(valueInEuro) {
     return valueInDollar;
 }
 
-
 // We declare the function with the exact name "fromDollarToYen"
 const fromDollarToYen = function(valueInDollar) {
     // Convert the given valueIn to yens
